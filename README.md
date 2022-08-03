@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/prathameshg11?label=Follow&style=social)
 
 ## About me 
-I'm an undergrad pursuing Electronics and Communication Engineering at National Institute of Technology, Calicut. Deep Learning practitioner.
+I'm an undergrad pursuing Mechanical Engineering at National Institute of Technology, Calicut. 
 
 - 🔭 I’m currently working on Reinforcement Learning
 - 📖 Instrested in
